@@ -3,7 +3,7 @@
 Responsive personal portfolio website built with **HTML, CSS, and JavaScript**.
 
 ## Live Demo
-https://YOUR-NETLIFY-LINK.netlify.app
+https://ridafatima-dev.netlify.app/
 
 ## Features
 - Responsive layout
